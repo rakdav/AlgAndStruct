@@ -11,6 +11,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AlgDeqstr", "AlgDeqstr\AlgD
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LevinshtainProject", "LevinshtainProject\LevinshtainProject.csproj", "{8288FF44-557E-4E4B-ADDC-7BB667EB2EBA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SortProject", "SortProject\SortProject.csproj", "{1324499B-01D8-4AC0-BD54-858DA3214CA9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{8288FF44-557E-4E4B-ADDC-7BB667EB2EBA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8288FF44-557E-4E4B-ADDC-7BB667EB2EBA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8288FF44-557E-4E4B-ADDC-7BB667EB2EBA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1324499B-01D8-4AC0-BD54-858DA3214CA9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1324499B-01D8-4AC0-BD54-858DA3214CA9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1324499B-01D8-4AC0-BD54-858DA3214CA9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1324499B-01D8-4AC0-BD54-858DA3214CA9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
